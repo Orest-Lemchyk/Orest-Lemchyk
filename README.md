@@ -2,6 +2,7 @@
 
 Hi there, I'm Orest! I'm passionate about coding, learning, and building innovative projects. Thanks for visiting my GitHub profile!
 
+
 💻 Tools & Technologies
 
 Languages: Python 🐍
@@ -10,9 +11,11 @@ Frameworks: Django 🌐, Django REST Framework 🛠️
 
 Tools: Visual Studio Code 🖥️, Git 📂
 
+
 🎓 Education
 
 I'm currently studying at Lviv Polytechnic National University (LPNU).
+
 
 🚀 Projects
 
@@ -26,7 +29,3 @@ Golf Project: Enhancing sports shooting training by tracking and analyzing hits 
 Expand my expertise in web development and backend services.
 
 Actively contribute to open-source projects.
-
-📫 Let's Connect!
-
-Feel free to reach out or explore my repositories. Let's build something amazing together! 😊
